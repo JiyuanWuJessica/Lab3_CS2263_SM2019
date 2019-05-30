@@ -117,7 +117,7 @@ bool push(Node_t **Stack, const char *value)
     if (*Stack == NULL){
 		return false;
 	} else{
-		*Stack = newNode(value, *Stack);
+		(*Stack) = newNode(value, *Stack);
 		return true;
 	}  
 }
