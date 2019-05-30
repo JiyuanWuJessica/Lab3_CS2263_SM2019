@@ -22,7 +22,7 @@ C_FLAGS = -Wall -Wextra -std=c99
 help:
 	@printf "available command:\n"
 	@printf "	make help               (this command)\n"
-	@printf "	make ArraySort          (to build your C program)\n"
+	@printf "	make Stack              (to build your C program)\n"
 	@printf "	make test               (to run every test case)\n"
 
 # link our .o files to make an executable
