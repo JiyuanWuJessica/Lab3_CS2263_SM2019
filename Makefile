@@ -1,8 +1,3 @@
-
-# TODO: add a target for each .input file in the Data directory to run the compiled Stack program with the tests in ./Data
-
-# TODO: add a target that can run all the tests above.
-
 #########################################
 # Created by Jiyuan Wu, 3504827
 #
